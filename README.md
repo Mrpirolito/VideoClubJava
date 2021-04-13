@@ -1,2 +1,2 @@
 # VideoClubJava
-Gestión de un videoclub
+Gestion de un videoclub
